@@ -47,5 +47,5 @@ export const SearchForm = ({ onChangeQuery }) => {
 };
 
 SearchForm.propTypes = {
-  onChange: PropTypes.func,
+  onChangeQuery: PropTypes.func,
 };
